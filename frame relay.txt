@@ -1,0 +1,94 @@
+ip address 192.168.100.10 255.255.255.0
+encapsulation frame-relay
+frame-relay lmi-type cisco
+frame-relay interface-dlci 102
+frame-relay interface-dlci 103
+frame-relay interface-dlci 104
+frame-relay interface-dlci 105
+frame-relay interface-dlci 106
+frame-relay interface-dlci 107
+frame-relay interface-dlci 108
+exit
+
+ip address 192.168.100.20 255.255.255.0
+encapsulation frame-relay
+frame-relay lmi-type cisco
+frame-relay interface-dlci 201
+frame-relay interface-dlci 203
+frame-relay interface-dlci 204
+frame-relay interface-dlci 205
+frame-relay interface-dlci 206
+frame-relay interface-dlci 207
+frame-relay interface-dlci 208
+exit
+
+ip address 192.168.100.30 255.255.255.0
+encapsulation frame-relay
+frame-relay lmi-type cisco
+frame-relay interface-dlci 301
+frame-relay interface-dlci 302
+frame-relay interface-dlci 304
+frame-relay interface-dlci 305
+frame-relay interface-dlci 306
+frame-relay interface-dlci 307
+frame-relay interface-dlci 308
+exit
+
+ip address 192.168.100.40 255.255.255.0
+encapsulation frame-relay
+frame-relay lmi-type cisco
+frame-relay interface-dlci 401
+frame-relay interface-dlci 402
+frame-relay interface-dlci 403
+frame-relay interface-dlci 405
+frame-relay interface-dlci 406
+frame-relay interface-dlci 407
+frame-relay interface-dlci 408
+exit
+
+ip address 192.168.100.50 255.255.255.0
+encapsulation frame-relay
+frame-relay lmi-type cisco
+frame-relay interface-dlci 501
+frame-relay interface-dlci 502
+frame-relay interface-dlci 503
+frame-relay interface-dlci 504
+frame-relay interface-dlci 506
+frame-relay interface-dlci 507
+frame-relay interface-dlci 508
+exit
+
+ip address 192.168.100.60 255.255.255.0
+encapsulation frame-relay
+frame-relay lmi-type cisco
+frame-relay interface-dlci 601
+frame-relay interface-dlci 602
+frame-relay interface-dlci 603
+frame-relay interface-dlci 604
+frame-relay interface-dlci 605
+frame-relay interface-dlci 607
+frame-relay interface-dlci 608
+exit
+
+ip address 192.168.100.70 255.255.255.0
+encapsulation frame-relay
+frame-relay lmi-type cisco
+frame-relay interface-dlci 701
+frame-relay interface-dlci 702
+frame-relay interface-dlci 703
+frame-relay interface-dlci 704
+frame-relay interface-dlci 705
+frame-relay interface-dlci 706
+frame-relay interface-dlci 708
+exit
+
+ip address 192.168.100.80 255.255.255.0
+encapsulation frame-relay
+frame-relay lmi-type cisco
+frame-relay interface-dlci 801
+frame-relay interface-dlci 802
+frame-relay interface-dlci 803
+frame-relay interface-dlci 804
+frame-relay interface-dlci 805
+frame-relay interface-dlci 807
+exit
